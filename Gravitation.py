@@ -6,7 +6,7 @@ Created on Mon Jan 15 20:59:01 2018
 """
 
 """
-
+Funktion Gravitation
 Der Funktion werden die Werte von Weiß oder Schwarz übergeben.
 A - D sind die Matrizen die im Vorraus erzeugt werden.
 """
