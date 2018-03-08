@@ -5,7 +5,8 @@ Created on Mon Jan 15 20:59:01 2018
 """
 
 """
-Der Funktion werden die Werte von Weiß oder Schwarz übergeben.
+Funktion Gravitation
+Der Funktion werden die Werte von weiß oder schwarz übergeben.
 A - D sind die Matrizen die im Vorraus erzeugt werden.
 """
 
@@ -28,9 +29,11 @@ def Gravitation(z,s): # sorgt dafür das die Werte durchrutschen
         return A, z, s 
 # Der Output soll genutzt werden, um später die Kugel an die richtige Stelle zu plotten.
         
+"""
+Funktion weiß
+"""
 
 # eingabe = input(" Weiß ist dran. Geben sie Zeile, Spalte ein:") # Erzeugt inputline
-
 
 def weiß(eingabe): # wandelt die Eingabe in eine Position in den Matrizen um
     L = list(eingabe)
