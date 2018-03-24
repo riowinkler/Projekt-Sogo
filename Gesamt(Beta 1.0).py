@@ -9,7 +9,7 @@ from pylab import *
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 
-print("Herzlich Willkommen bei Sogo.") #Spielanleitung 
+print("Herzlich Willkommen bei Sogo.") #Spielanleitung  
 print("Hier zeigt sich, ob sie es schaffen, ihren Gegner geschickt an der Nase herumzuführen, um zu gewinnen.")
 print("Gewonnen ist das Spiel, wenn Sie in egal welcher Konstellation vier Kugeln einer Farbe in einer Reihe haben.")
 print("Das heißt, wenn vier gleichfarbige Steine senkrecht übereinander, waagrecht nebeneinander, diagonal in einer Ebene oder aber auch diagonal nach oben oder von Ecke zu Ecke gesetzt werden.")
