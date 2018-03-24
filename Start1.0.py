@@ -43,4 +43,4 @@ def start(Zahl):
     if Abbruchbedingung == "Weiß":
         return("Weiß hat gewonnen")
     if Abbruchbedingung == "Schwarz":
-        return("Schwarz hat gewonnen")
+        return("Schwarz hat gewonnen") 
